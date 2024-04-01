@@ -91,7 +91,7 @@ pillow==10.0.0
 pytz==2023.3
 django-proxy==1.2.2
 python-daemon==3.0.1
-eventlet==0.33.3
+eventlet==0.34.3
 greenlet==2.0.2
 gunicorn==21.2.0
 celery==5.3.1
@@ -140,3 +140,4 @@ azure-mgmt-network==23.1.0
 google-cloud-compute==1.13.0
 grpcio==1.56.2
 alibabacloud-dysmsapi20170525==2.0.24
+pyjwt>=2.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
