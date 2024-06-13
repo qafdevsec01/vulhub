@@ -134,7 +134,7 @@ ua-parser==0.18.0
 user-agents==2.2.0
 qingcloud-sdk==1.2.15
 azure-mgmt-subscription==3.1.1
-azure-identity==1.13.0
+azure-identity==1.16.1
 azure-mgmt-compute==30.0.0
 azure-mgmt-network==23.1.0
 google-cloud-compute==1.13.0
