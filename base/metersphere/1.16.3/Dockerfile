@@ -20,7 +20,7 @@ RUN set -ex \
     && cd /usr/src/backend \
     && mvn clean package dependency:copy-dependencies
 
-FROM openjdk:8u292-jdk
+FROM openjdk:8u312-jdk
 
 COPY docker-entrypoint.sh /docker-entrypoint.sh
 RUN set -ex \
