@@ -138,5 +138,5 @@ azure-identity==1.13.0
 azure-mgmt-compute==30.0.0
 azure-mgmt-network==23.1.0
 google-cloud-compute==1.13.0
-grpcio==1.56.2
+grpcio==1.58.3
 alibabacloud-dysmsapi20170525==2.0.24
