@@ -68,7 +68,7 @@ geoip2==4.7.0
 ipip-ipdb==1.6.1
 pywinrm==0.4.3
 python-nmap==0.7.1
-django==4.1.10
+django==4.2.21
 django-bootstrap3==23.4
 django-filter==23.2
 django-formtools==2.4.1
@@ -100,7 +100,7 @@ django-celery-beat==2.5.0
 kombu==5.3.1
 uvicorn==0.22.0
 websockets==11.0.3
-python-ldap==3.4.3
+python-ldap==3.4.5
 ldap3==2.9.1
 https://github.com/ibuler/django-radius/archive/refs/tags/1.5.0.zip
 https://github.com/ibuler/django-cas-ng/releases/download/v4.3.2/django-cas-ng-4.3.2.zip
